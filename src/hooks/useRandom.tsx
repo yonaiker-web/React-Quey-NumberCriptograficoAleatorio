@@ -1,5 +1,4 @@
 import { useQuery } from "@tanstack/react-query";
-import { useEffect, useReducer, useState } from "react";
 
 //creo la funcion que llamara el numero aleatorio usando un api
 //():Promise<number> va a retorna una promesa y esa promesa va a resolver un numero
